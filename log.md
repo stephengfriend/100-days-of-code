@@ -15,7 +15,7 @@
 
 **Today's Progress**: Fixed 404 route, enabled forced https, updated user model
 
-**Thoughts:** I spent my work day more excited to to work on #100daysofcode projects than on my actual work. Thait's probably because I was knee deep in Google Sheets, Jira Tickets, and GitHub commits. @jwsummers came over for dinner and I spent a solid hour just walking through the express application, explaining it's various parts and how they apply to web application development. I'd like to have him add a some static content, as an exercise in learning.
+**Thoughts:** I spent my work day more excited to to work on #100daysofcode projects than on my actual work. That's probably because I was knee deep in Google Sheets, Jira tickets, and GitHub commits. @jwsummers came over for dinner and I spent a solid hour just walking through the express application, explaining it's various parts and how they apply to web application development. I'd like to have him add a some static content, as an exercise in learning.
 
 **Link(s) to work**
 
