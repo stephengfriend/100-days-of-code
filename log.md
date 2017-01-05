@@ -10,3 +10,14 @@
 
 1. [Tonight's Commit](https://github.com/stephengfriend/chesmsbl.org/commit/156ca3d9e5ba11dad68a3b126d7798a3ccb85435)
 2. [Chesapeake Men's Senior Baseball Leage](https://www.chesmsbl.org)
+
+### Day 2: January 4, 2016
+
+**Today's Progress**: Fixed 404 route, enabled forced https, updated user model
+
+**Thoughts:** I spent my work day more excited to to work on #100daysofcode projects than on my actual work. Thait's probably because I was knee deep in Google Sheets, Jira Tickets, and GitHub commits. @jwsummers came over for dinner and I spent a solid hour just walking through the express application, explaining it's various parts and how they apply to web application development. I'd like to have him add a some static content, as an exercise in learning.
+
+**Link(s) to work**
+
+1. [Tonight's Commit](https://github.com/stephengfriend/chesmsbl.org/commit/ddd4b458f795f57353670c3586e7d4ebcd46acb9)
+2. [Mongoose Docs](http://mongoosejs.com/docs/guide.html)
