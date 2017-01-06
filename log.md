@@ -21,3 +21,14 @@
 
 1. [Tonight's Commit](https://github.com/stephengfriend/chesmsbl.org/commit/ddd4b458f795f57353670c3586e7d4ebcd46acb9)
 2. [Mongoose Docs](http://mongoosejs.com/docs/guide.html)
+
+### Day 3: January 5, 2016
+
+**Today's Progress**: Added CircleCI continuous deployment to herok an integrated auth0 login and signup 
+
+**Thoughts:** I had some spare time before work this morning, in that time I setup [CircleCI](https://circleci.com) continuous deployment to Heroku. I'd like to take it a step further and when a collaborator submits a PR, it would fork a dev environment for them to check their changes out. I spent some cycles converting to sequelize and postgres, since the data for this site will be heavily associated and easier to normalize. Tonight I added [Auth0](https://auth0.com) with a custom login and registration page. I wired it up to passport and can confirm logins and signups work. Tomorrow, I need to add steps for new users to complete their profile. Additionally, I need to wire it up to my database backend and check for existing emails from social signups.
+
+**Link(s) to work**
+
+1. [CircleCI Commit](https://github.com/stephengfriend/chesmsbl.org/commit/d217756fe0ab5ef5ebeb2e7372eab8ddcc0bc7b7)
+2. [auth0 Branch](https://github.com/stephengfriend/chesmsbl.org/tree/auth0)
