@@ -32,3 +32,23 @@
 
 1. [CircleCI Commit](https://github.com/stephengfriend/chesmsbl.org/commit/d217756fe0ab5ef5ebeb2e7372eab8ddcc0bc7b7)
 2. [auth0 Branch](https://github.com/stephengfriend/chesmsbl.org/tree/auth0)
+
+### Day 4: January 6, 2016
+
+**Today's Progress**: Added rollbar 
+
+**Thoughts:** I spent most of my programming time integrating various services. I got a free Auth0 OSS account, giving me access to all of the features of Auth0. I also used my GitHub student developer pack to get a SendGrid account provisioned. I linked Auth0 up to SendGrid. I formatted all of the email templates for email verification, forgot password, etc... I also got Rollbar hooked up for tracking errors within the stack. I'd like to wire it up for deployments, so that I can track the errors per deployment.
+
+**Link(s) to work**
+
+1. [Day 4 Commit](https://github.com/stephengfriend/chesmsbl.org/commit/f7fb35ef45643a3f6a2ab03df6761a46bea125c1)
+
+### Day 5: January 8, 2016
+
+**Today's Progress**: Added user and password login, cleaned up the user profile section, and added crisp.im 
+
+**Thoughts:** Saturday was a waste, due to not feeling well. I spent today doing a bit more work. Trying to get the user authentication finished. Login and register work, but there are a few more thinks to work on. Namely, signing up with a social account needs a special flow to get the email and password identity setup. Then the social account needs to be linked to the db account. I also need to work on a second step for filling out the player profile. Wiring it up the user model needs to be tied to the Auth0 account.
+
+**Link(s) to work**
+
+1. [Tonight's Commit](https://github.com/stephengfriend/chesmsbl.org/commit/a80fa7cf2e5c96affcdf6dc5491ca5cfc3ecf1e8)
