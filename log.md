@@ -52,3 +52,15 @@
 **Link(s) to work**
 
 1. [Tonight's Commit](https://github.com/stephengfriend/chesmsbl.org/commit/a80fa7cf2e5c96affcdf6dc5491ca5cfc3ecf1e8)
+
+### Day 6: January 9, 2016
+
+**Today's Progress**: Added NewRelic and LaunchDarkly support, cleaned up some old routes 
+
+**Thoughts:** Making some decent progress. Got a lot of the integrations setup that I want to use. Took a call with PandaDoc for document signing, but they were going to be way too expensive. Reconnected with my contacts at SignNow and they're going to keep the original deal we had. Mocked up some flows for the Teams, Join a Team, and Team Management. Tomorrow I am going to tie-off the login and register flow. It has to be delivered.
+
+**Link(s) to work**
+
+1. [master commits](https://github.com/stephengfriend/chesmsbl.org/commit/0ddc2618965b107f1d8002099c0d44c1f837187d)
+1. [auth0 commits](https://github.com/stephengfriend/chesmsbl.org/commit/34efa05f10ee2565d4285b742f277c3476acc085)
+
