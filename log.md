@@ -62,5 +62,14 @@
 **Link(s) to work**
 
 1. [master commits](https://github.com/stephengfriend/chesmsbl.org/commit/0ddc2618965b107f1d8002099c0d44c1f837187d)
-1. [auth0 commits](https://github.com/stephengfriend/chesmsbl.org/commit/34efa05f10ee2565d4285b742f277c3476acc085)
+2. [auth0 commits](https://github.com/stephengfriend/chesmsbl.org/commit/34efa05f10ee2565d4285b742f277c3476acc085)
 
+### Day 7: January 11, 2016
+
+**Today's Progress**: Added NewRelic and LaunchDarkly support, cleaned up some old routes 
+
+**Thoughts:** I missed another day because the power supply on my MacBook broke. However, today was productive. I've pivoted, slightly, and I'm building the static portion of the site with kickster on GitHub pages. Then the actual dynamic portion of the site will be on heroku at a subdomain, likely play.chesmsbl.org. This will make a number of things easier and give me a solid return on caching.
+
+**Link(s) to work**
+
+1. [Today's commits](https://github.com/chesmsbl/chesmsbl.org/commit/0a6efef875c34023fd95d84f1d947d6ef4760c2e)
