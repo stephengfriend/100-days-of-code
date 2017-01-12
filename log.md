@@ -66,7 +66,7 @@
 
 ### Day 7: January 11, 2016
 
-**Today's Progress**: Added NewRelic and LaunchDarkly support, cleaned up some old routes 
+**Today's Progress**: Pivoting to static with Jekyll and sub-domain for the app 
 
 **Thoughts:** I missed another day because the power supply on my MacBook broke. However, today was productive. I've pivoted, slightly, and I'm building the static portion of the site with kickster on GitHub pages. Then the actual dynamic portion of the site will be on heroku at a subdomain, likely play.chesmsbl.org. This will make a number of things easier and give me a solid return on caching.
 
