@@ -73,3 +73,23 @@
 **Link(s) to work**
 
 1. [Today's commits](https://github.com/chesmsbl/chesmsbl.org/commit/0a6efef875c34023fd95d84f1d947d6ef4760c2e)
+
+### Day 8: January 12, 2016
+
+**Today's Progress**: Wrapped up and launched the bulk of the static content
+
+**Thoughts:** I stayed up until about 230am to make sure this was launched. I made a few tweaks to the style. I found some cool resources for doing offline/client-side search with lunr.js and jekyll. I plan to implement this, soon. I also setup the dns records for the subdomain, play.chesmsbl.org, and did some other dns clean up. I also followed up with some vendors.
+
+**Link(s) to work**
+
+1. [Today's commits](https://github.com/chesmsbl/chesmsbl.org/compare/b2a6a2f9d5ce4bd83835526894959bb158e70aaa...c0fdaae59bfba48a948bfdd172e627420eb4592d)
+
+### Day 9: January 13, 2016
+
+**Today's Progress**: Scattered day of various successes
+
+**Thoughts:** Today has been less LoC but still productive. I've started modeling the data and added an authorization extension to auth0. I setup some basic roles and groups, planning to use the combination of roles and groups to manage the access to various team portals and information. I also started playing with the search functionality in jekyll. Unfortunately, none of my work today produced any commits.
+
+**Link(s) to work**
+
+1. :poop:
